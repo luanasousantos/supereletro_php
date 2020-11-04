@@ -1,0 +1,114 @@
+/*Todos*/
+body {
+   background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.links{
+    background-color: rgb(21, 75, 224);
+}
+
+.links a {
+    color:white ;
+}
+
+#formas_pagamento {
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+/* página inicial*/
+
+#buttonInicial {
+    position: center;
+    margin: 0 auto;
+    text-align: center;
+    width: 100%;
+    border: 1px solid #eee;
+    border-radius: 6px;
+    background-color: rgb(196, 196, 204);
+    font-size: large;
+    
+
+}
+
+#titulo_inicial {
+    background-color: rgb(187, 176, 176);
+    color:blue;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: auto;
+}
+
+#texto_cliente {font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+    font-size: x-large;
+    padding: 30 px;
+    display: grid;
+    
+}
+
+/*Nossas lojas*/
+#enderecos_lojas {
+    background-color:silver;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*Produtos*/
+.produtos {
+    color:rgb(55, 47, 63);
+    font-family: cursive;
+    
+    }
+
+#lista_produtos {
+    font-style: italic;
+}
+
+.produtos_imagens {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:small
+}
+
+/*Pedidos*/
+#tituloPedido{
+    margin-left: 3%;
+    color:rgb(68, 0, 255); 
+    
+}
+
+.inputPedido{
+    color: gray;
+    width: 400px;
+    font-size: 20px;
+    margin-left: 3%;
+    display: block; 
+}
+
+.inputform {
+color:black;
+background-color:whitesmoke;
+width: 400px;
+height: 40px;
+margin: 0%;
+cursor: pointer;
+border: 1px solid rgb(68, 0, 255);
+padding-left: 1%;
+
+}
+
+.inputEnviar{
+    background-color: rgb(189, 24, 24);
+    color: white;
+    width: 400px;
+    height: 40px;
+    margin: 0%;  
+    padding-left: 1%;
+    margin-left: 1%;
+   
+}
+
+/*Contatos*/
+.contatos {
+    background-color: rgb(223, 234, 238);
+}
